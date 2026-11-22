@@ -1,0 +1,19 @@
+COMANDOS BÁSICOS DE GIT
+
+1. GIT INIT
+Permite inicializar un nuevo repositorio.
+
+2. GIT ADD
+Permite agregar archivos para preparar sus cambios.
+
+3. GIT COMMIT
+Registra los cambios realizados en el proyecto.
+
+4. GIT STATUS
+Muestra el estado actual de los archivos.
+
+5. GIT LOG
+Muestra el historial de commits realizados.
+
+6. GIT PUSH
+Permite subir los cambios al repositorio remoto de GitHub.
